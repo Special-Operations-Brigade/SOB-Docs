@@ -75,6 +75,7 @@ class mti_fortify_compositions {
         displayName = ""; // the name of the composition, displayed in the fortify interaction menu
         file = ""; // points to the file that contains the actual composition data (in objectsGrabber format)
         cost = 0; // total cost of the composition, subtracted from the container's max composition budget
+        createMarker = 0; // Controls whether a marker should be created upon deploy
         markerType = "hd_flag"; // type of marker (from CfgMarkers) to use for this composition [see: https://community.bistudio.com/wiki/Arma_3:_CfgMarkers]
         markerColor = "ColorBlack"; // colour of marker (from CfgMarkerColors) to use for this composition [see: https://community.bistudio.com/wiki/Arma_3:_CfgMarkerColors]
     };
@@ -84,6 +85,7 @@ class mti_fortify_compositions {
         displayName = "My Cool Composition";
         file = "my_composition.sqf"; // output provided by mti_fortify_fnc_objectsGrabber
         cost = 100;
+        createMarker = 1;
         markerType = "b_hq";
         markerColor = "ColorOrange";
     };

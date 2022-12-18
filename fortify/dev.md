@@ -17,6 +17,7 @@ Below, you can find information and examples on how to define new presets and co
     - [Adding Compositions to Containers](#adding-compositions-to-containers)
     - [Making Save/Load Containers](#making-saveload-containers)
   - [Custom Fortify Backpacks](#custom-fortify-backpacks)
+  - [Preset Categories](#preset-categories)
   - [Tricks](#tricks)
     - [Preset Objects Macro](#preset-objects-macro)
     - [Enabling Fortify without backpack](#enabling-fortify-without-backpack)
@@ -31,12 +32,14 @@ class mti_fortify_presets {
         scope = 0; // controls visibility of the preset, scope > 0 makes it visible
         displayName = ""; // The name of the preset, displayed in the fortify interaction menu
         backpackOnly = 0; // if this is 1, this preset can only be used with backpacks
+        category = ""; // Presets can be assigned to a category which will make the ace menu less cluttered
         class Objects {}; // this sub-class contains all objects (from CfgVehicles) that are available in this preset
     };
 
     class My_Preset: Default {
         scope = 1;
         displayName = "My Cool Preset";
+        category = "Misc";
         class Objects {
             class _xx_Land_BagFenceShort {
                 name = "Land_BagFenceShort"; // classname in CfgVehicles
@@ -168,6 +171,31 @@ class CfgVehicles {
 
         // optional, if you want players to be able to deploy things directly from backpack without container:
         mti_fortify_availablePresets[] = { "My_Backpack_Preset", 250 }; // presets in format: <class name>, <total budget>
+    };
+};
+```
+
+## Preset Categories
+
+Preset categories were introduced to reduce the clutter in the Fortify root menu when a lot of containers are nearby. Categories are hard-coded as sub-classes in the self-action tree of `CAManBase`. The `category =` parameter of a preset entry must match the classname of the category *exactly*.
+
+Custom categories can be added following the example below:
+
+```cpp
+class CfgVehicles {
+    class Man;
+    class CAManBase: Man {
+        class ACE_SelfActions {
+            class MTI_Fortify {
+                class My_Category {
+                    displayName = "My Own Category";
+                    condition = "true";
+                    statement = "";
+                    showDisabled = 0;
+                    insertChildren = "[_this select 0,'My_Category'] call mti_fortify_fnc_addActions"; // IMPORTANT: also replace My_Category with your own classname here!
+                };
+            };
+        };
     };
 };
 ```

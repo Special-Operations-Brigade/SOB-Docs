@@ -34,17 +34,17 @@ Any "AOE" styled hacks will originate from the Antenna instead of the player onc
 
 ### Droid Hack
 
-Origin: Player
-Range: Directly infront of the player
+- Origin: Player
+- Range: Directly infront of the player
 
 The user is able to hack a singular droid infront of them to join their side. The droid will remain a member of the players group and engage enemies until death. The user is able to hack as many droids as they wish.
 In the event the user fails to hack a droid, the droid will short circuit and stop the heart of the hacker.
 
 ### Droid Wave
 
-Origin: Player - Antenna
-Range: 50 meters - 200 meters
-Duration: 30 seconds
+- Origin: Player - Antenna
+- Range: 50 meters - 200 meters
+- Duration: 30 seconds
 
 The user is able to send out a signal in a short radius around them, causing 5 (15 with an antenna) random droids to switch to their side for a short period of time. Once time is up, the droids will short circuit and cease to work.
 In the event he user fails the hack, the droids will instead know the exact location of the hacker and run directly to their location

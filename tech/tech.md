@@ -47,4 +47,48 @@ In the event the user fails to hack a droid, the droid will short circuit and st
 - Duration: 30 seconds
 
 The user is able to send out a signal in a short radius around them, causing 5 (15 with an antenna) random droids to switch to their side for a short period of time. Once time is up, the droids will short circuit and cease to work.
-In the event he user fails the hack, the droids will instead know the exact location of the hacker and run directly to their location
+In the event the user fails the hack, the droids will instead know the exact location of the hacker and run directly to their location
+
+### Droid Stop
+
+- Origin: Player 
+- Range: 50 - 200 meters
+- Duration: 30 seconds
+
+The user is able to send out a singal in a radius around them, causing all nearby droids to stop firing for a short period of time. Once time is up, the droids will go back to fighting like normal. 
+In the event the user fails the hack, the droids will learn the exact locations of the hacker and hunt them down 
+
+### Droid Flee
+
+- Origin: Player 
+- Range: 50 - 200 meters
+- Duration: 30 seconds
+
+The user is able to send out a signal in a short radius around them, causing nearby droids to flee away from the hacker for a short period of time. Once time is up, the droids will turn around and fight like normal. 
+In the event the user fails the hack, TBD
+
+### Droid Disrupt 
+
+- Origin: Player 
+- Range: 50 - 200 meters
+- Duration: 30 seconds
+
+The user is able to send out a signal in a short radius around them, causing all nearby droids accuracy to drop significantly for a short period of time. Once time is up, droids will be able to act normally. 
+In the event the user fails the hack, TBD
+
+### Mine disable 
+
+- Origin: Player 
+- Range: 50 - 200 meters
+- Duration: 30 seconds
+
+The user is able to send out a signal to all mines in a radius around them, temporarily disabling the mines and allowing the user to move through them without damage. Once time is up the mines will be reactivated. 
+In the event the user fails the hack, random mines in the mine field will blow up instantly 
+
+### Radio Scramble 
+- Origin: Player 
+- Range: 50 - 200 meters
+- Duration: 30 seconds
+
+The user is able to send out a signal to all enemy radios in a radius around them, disabling all short ranges and heavily limiting long range capabilities. Once time is up, the long range will return to normal but the short range will need a repair kit to fuction once again. 
+In the event the user fails the hack, their own radio gets affected by the hack. 

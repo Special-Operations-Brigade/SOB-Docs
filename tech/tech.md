@@ -4,10 +4,10 @@
 
 - [MokTech - The Tech](#moktech---Tech)
   - [Introduction](#introduction)
-  - [Equipment](#tech-equipment)
-    - [The "Techno Pad"](#techno-pad)
-    - [The Computer Spike](#computer-spike)
-    - [The Antenna](#antenna)
+  - [Equipment](#equipment)
+    - [The Techno Pad](#the-techno-pad)
+    - [The Computer Spike](#the-computer-spike)
+    - [The Antenna](#the-antenna)
   - [Hacks](#hacks)
 
 ## Introduction
@@ -16,7 +16,7 @@ This documentation is for all things related to the "Tech" project.
 
 ## Equipment
 
-### The "Techno Pad"
+### The Techno Pad
 
 The "Techno Pad" is a new piece of equipment which allows the user to hack droids and other technological systems. This item comes equiped with a default set of hacks based around hacking droids and other objects around the user like mines and intel panels. Users can find more information on hacks below in the "Hacks" section.
 

@@ -9,6 +9,7 @@
     - [The Computer Spike](#the-computer-spike)
     - [The Antenna](#the-antenna)
   - [Hacks](#hacks)
+  - [Prompts](#prompts)
 
 ## Introduction
 
@@ -92,3 +93,8 @@ In the event the user fails the hack, random mines in the mine field will blow u
 
 The user is able to send out a signal to all enemy radios in a radius around them, disabling all short ranges and heavily limiting long range capabilities. Once time is up, the long range will return to normal but the short range will need a repair kit to fuction once again. 
 In the event the user fails the hack, their own radio gets affected by the hack. 
+
+## Prompts
+
+When completing a hack, the user will be prompted to complete prompts. Each prompt has a specific command to be entered. Below is a cheat sheet for all of the possible prompts.
+https://docs.google.com/document/d/1oSz1uURLLb7z6nCOMCTOLkq_OWXBc6Kk7HjI2fCIAvY/edit?usp=sharing

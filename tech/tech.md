@@ -63,7 +63,7 @@ In the event the user fails the hack, the droids will learn the exact locations 
 
 - Origin: Player 
 - Range: 50 - 200 meters
-- Duration: 30 seconds
+- Duration: Until they reach 100 meters from the target.
 
 The user is able to send out a signal in a short radius around them, causing nearby droids to flee away from the hacker for a short period of time. Once time is up, the droids will turn around and fight like normal. 
 In the event the user fails the hack, The droids will learn the exact locations of the hacker and hunt them down.
@@ -81,7 +81,7 @@ In the event the user fails the hack, The droids will instead recieve a large bo
 
 - Origin: Player 
 - Range: 50 - 200 meters
-- Duration: 30 seconds
+- Duration: 2 Minutes
 
 The user is able to send out a signal to all mines in a radius around them, temporarily disabling the mines and allowing the user to move through them without damage. Once time is up the mines will be reactivated. 
 In the event the user fails the hack, random mines in the mine field will blow up instantly 
@@ -89,7 +89,7 @@ In the event the user fails the hack, random mines in the mine field will blow u
 ### Radio Scramble 
 - Origin: Player 
 - Range: 50 - 200 meters
-- Duration: 30 seconds
+- Duration: Permenant
 
 The user is able to send out a signal to all enemy radios in a radius around them, disabling all short ranges and heavily limiting long range capabilities. Once time is up, the long range will return to normal but the short range will need a repair kit to fuction once again. 
 In the event the user fails the hack, their own radio gets affected by the hack. 

@@ -56,7 +56,7 @@ In the event the user fails the hack, the droids will instead know the exact loc
 - Duration: 30 seconds
 
 The user is able to send out a singal in a radius around them, causing all nearby droids to stop firing for a short period of time. Once time is up, the droids will go back to fighting like normal. 
-In the event the user fails the hack, the droids will learn the exact locations of the hacker and hunt them down 
+In the event the user fails the hack, the droids will learn the exact locations of the hacker and hunt them down.
 
 ### Droid Flee
 
@@ -65,7 +65,7 @@ In the event the user fails the hack, the droids will learn the exact locations 
 - Duration: 30 seconds
 
 The user is able to send out a signal in a short radius around them, causing nearby droids to flee away from the hacker for a short period of time. Once time is up, the droids will turn around and fight like normal. 
-In the event the user fails the hack, TBD
+In the event the user fails the hack, The droids will learn the exact locations of the hacker and hunt them down.
 
 ### Droid Disrupt 
 
@@ -74,7 +74,7 @@ In the event the user fails the hack, TBD
 - Duration: 30 seconds
 
 The user is able to send out a signal in a short radius around them, causing all nearby droids accuracy to drop significantly for a short period of time. Once time is up, droids will be able to act normally. 
-In the event the user fails the hack, TBD
+In the event the user fails the hack, The droids will instead recieve a large boost in skill.
 
 ### Mine disable 
 

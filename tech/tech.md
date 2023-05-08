@@ -10,6 +10,7 @@
     - [The Antenna](#the-antenna)
   - [Hacks](#hacks)
   - [Prompts](#prompts)
+  - [Events](#events)
 
 ## Introduction
 
@@ -98,3 +99,11 @@ In the event the user fails the hack, their own radio gets affected by the hack.
 
 When completing a hack, the user will be prompted to complete prompts. Each prompt has a specific command to be entered. Below is a cheat sheet for all of the possible prompts.
 https://docs.google.com/document/d/1oSz1uURLLb7z6nCOMCTOLkq_OWXBc6Kk7HjI2fCIAvY/edit?usp=sharing
+
+## Events
+A couple event points were created for other modders to be able to interact with.
+- `mti_tech_beforeSuccessHack`
+- `mti_tech_afterSuccessHack`
+- `mti_tech_beforeFailedHack`
+- `mti_tech_afterFailedHack`
+Each event is passed the player and the name of hack that the player attempted, in that order. `[player, _hackName]`

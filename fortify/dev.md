@@ -33,6 +33,7 @@ class mti_fortify_presets {
         displayName = ""; // The name of the preset, displayed in the fortify interaction menu
         backpackOnly = 0; // if this is 1, this preset can only be used with backpacks
         category = ""; // Presets can be assigned to a category which will make the ace menu less cluttered
+        condition = "true"; // Condition that has to be met in order to further filter who can access a given preset, passed arguments are [_target,_player]
         class Objects {}; // this sub-class contains all objects (from CfgVehicles) that are available in this preset
     };
 

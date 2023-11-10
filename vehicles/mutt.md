@@ -1,6 +1,15 @@
 mti_vehicles_mutt
 ===================
 
+- [mti\_vehicles\_mutt](#mti_vehicles_mutt)
+  - [All configurations](#all-configurations)
+  - [MUTT-I](#mutt-i)
+  - [MUTT-C](#mutt-c)
+  - [MUTT-L](#mutt-l)
+  - [MUTT-M](#mutt-m)
+  - [MUTT-A](#mutt-a)
+  - [MUTT-S](#mutt-s)
+
 The Multi-Use Tactical Transport ("MUTT") is a new vehicle platform developed and produced by MokTech Industries.
 
 - MUTT-I - Infantry Transport

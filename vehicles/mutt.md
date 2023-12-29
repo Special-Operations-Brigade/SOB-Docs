@@ -1,38 +1,26 @@
-mti_vehicles_mutt
+# mti_vehicles_mutt
 ===================
-
-- [mti\_vehicles\_mutt](#mti_vehicles_mutt)
-  - [All configurations](#all-configurations)
-  - [MUTT-I](#mutt-i)
-  - [MUTT-C](#mutt-c)
-  - [MUTT-L](#mutt-l)
-  - [MUTT-M](#mutt-m)
-  - [MUTT-A](#mutt-a)
-  - [MUTT-S](#mutt-s)
 
 The Multi-Use Tactical Transport ("MUTT") is a new vehicle platform developed and produced by MokTech Industries.
 
-- MUTT-I - Infantry Transport
-- MUTT-C - Cargo Transport
-- MUTT-L - Vehicle/Field Logistics
-- MUTT-M - Medical Transport
-- MUTT-A - Assault Variant, different armaments
-- MUTT-S - Mobile Shield Configuration
+- MUTT-I - Infantry Transport **(Initial Release)**
+- MUTT-C - Cargo Transport **(Initial Release)**
+- MUTT-L - Vehicle/Field Logistics **(Phase 2)**
+- MUTT-M - Medical Transport **(Phase 2)**
+- MUTT-A - Assault Variant, different armaments **(Phase 3)**
+- MUTT-S - Mobile Shield Configuration **(Phase 3)**
+- MUTT-R - Radar/Sensor/AWACS Configuration **(Phase 3)**
 
 ## All configurations
 
 - Forward-facing Point Defense Turret
 - Three seats: Driver, Commander, Gunner
 - Cup holders
-- Centre Map Display + Direction Indicator, can be zoomed in and out through ACE Interactions
-- Two front MFDs to display Speed, RPM, Fuel, Damage and Engine Temp
-- Side MFD to display some misc. information like current time, crew names, passenger/cargo occupation, ammo status
-- Toggleable deflector shield cockpit separator
-- Amphibious
 
 ## MUTT-I
 
 - People sit on benches in the back
+- Can fit 18 passengers (1 full platoon)
 
 ## MUTT-C
 
@@ -47,9 +35,8 @@ The Multi-Use Tactical Transport ("MUTT") is a new vehicle platform developed an
 
 ## MUTT-M
 
-- Can load stretchers
+- Can load stretchers and Field Bacta Tanks (which slowly heal over time)
 - Loaded casualties do not bleed out
-- Slowly heals loaded casualties over time?!
 
 ## MUTT-A
 
@@ -65,4 +52,9 @@ The Multi-Use Tactical Transport ("MUTT") is a new vehicle platform developed an
 - Truck with a Shield Generator strapped to the cargo bed
 - When enabled, front-facing shield to allow providing cover/protection when approaching objs under fire
 - Shield can be disabled with enough incoming damage
-- When shield is enabled, speed of the MUTT is severely decresed, fuel drain severely increased
+- When shield is enabled, speed of the MUTT is severely decreased, fuel drain severely increased
+
+## MUTT-R
+
+- Truck with a powerful radar/sensor
+- Can be used for AWACS and revealing sensor targets for Aviation

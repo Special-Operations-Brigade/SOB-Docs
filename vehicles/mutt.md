@@ -31,7 +31,7 @@ The Multi-Use Tactical Transport ("MUTT") is a new vehicle platform developed an
 
 - Built-in Fortify Preset
 - Can re-arm/-fuel/-pair nearby vehicles
-- ???
+- Front-attached plow to clear minefields and build trench lines
 
 ## MUTT-M
 

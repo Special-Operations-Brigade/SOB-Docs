@@ -42,7 +42,7 @@ This document covers all the different types of aircraft within the arsenal of X
 
 * The LAAT/LAG is the Drone varient of the LAAT-LE, able to remotly carry infantry to the front lines this is a suicide vehicle. Upon inpact it deploys a squad sheild protecting its cargo, while blowing up in the process. 
 
-* THe republic Transport is meant to carry large amounts of vehicles or cargo as needed. The C-130 of x-ray, this aircraft will get you an entire platoon of tanks in one trip. 
+* The republic Transport is meant to carry large amounts of vehicles or cargo as needed. The C-130 of x-ray, this aircraft will get you an entire platoon of tanks in one trip. 
 
 ### Bombers
 

@@ -18,7 +18,7 @@ This document covers all the different types of aircraft within the arsenal of X
 
 ### Fighters
 
-* The Z-95 is a cap fighter excelling in manoverability. While it isn't the fastest in the garage, it can turn at razor sharp speeds and still keep up with the enemy. This aircraft comes equipped with mainly anti-air missiles and light air to ground capabilities. This fighter also features the lightning missiles, short range and quick moving missiles seen on no other class of aircraft. 
+* The Z-95 is a cap fighter excelling in maneuverability. While it isn't the fastest in the garage, it can turn at razor sharp speeds and still keep up with the enemy. This aircraft comes equipped with mainly anti-air missiles and light air to ground capabilities. This fighter also features the lightning missiles, short range and quick moving missiles seen on no other class of aircraft. 
 
 * The V-Wing is the fastest of all the fighters, clocking in a max speed of 1300kph this aircraft excels at reaching one end of the map to another in a blink of an eye. While the ability to turn can sometimes been difficult this fighter can outrun almost another given the time. 
 
@@ -32,7 +32,7 @@ This document covers all the different types of aircraft within the arsenal of X
 
 ### Transports
 
-* The LAAT-C is the cargo varient of the LAAT. While being much befier and less armed, it can carry heavy cargo and vehicles if need be to any destination. 
+* The LAAT-C is the cargo varient of the LAAT. While being much beefier and less armed, it can carry heavy cargo and vehicles if need be to any destination. 
 
 * The Nu-Class is the shuttle in X-rays garage. It can transport infantry, cargo, small vehicles, and whatever else will fit in its cargo hold. This aircraft is great at performing drops of resupplies and infantry at a moments notice. 
 
@@ -40,10 +40,10 @@ This document covers all the different types of aircraft within the arsenal of X
 
 * The LAAT/s is the stealth varient of the LAAT-LE, able to clock out of the sensors of anti-air and aircraft, this laat is meant to deploy assains behind the front lines without detection. 
 
-* The LAAT/LAG is the Drone varient of the LAAT-LE, able to remotly carry infantry to the front lines this is a suicide vehicle. Upon inpact it deploys a squad sheild protecting its cargo, while blowing up in the process. 
+* The LAAT/LAG is the Drone varient of the LAAT-LE, able to remotely carry infantry to the front lines this is a suicide vehicle. Upon impact it deploys a squad sheild protecting its cargo, while blowing up in the process. 
 
-* The republic Transport is meant to carry large amounts of vehicles or cargo as needed. The C-130 of x-ray, this aircraft will get you an entire platoon of tanks in one trip. 
+* The Republic Transport is meant to carry large amounts of vehicles or cargo as needed. The C-130 of x-ray, this aircraft will get you an entire platoon of tanks in one trip. 
 
 ### Bombers
 
-* The Y-Wing is the heavy hitter of X-ray. This aircraft features massive amounts of armorment with a massive punch. Carrying large amounts of bombs, missiles, and a nasty front gun this aircraft can decimate an obj without even looking at it. 
+* The Y-Wing is the heavy hitter of X-ray. This aircraft features massive amounts of armorment with a massive punch. Carrying large amounts of bombs, missiles, and a nasty front gun this aircraft can decimate an objective without even looking at it. 

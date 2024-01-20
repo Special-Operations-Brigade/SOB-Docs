@@ -26,7 +26,7 @@ This document covers all the different types of aircraft within the arsenal of X
 
 ### Multi-Role
 
-* The LAAT is the bread and butter of X-Ray. While not being good at one thing in particular it can do the job of multiple aircraft if need be. With the ability to move an entire company of men while also taking out aats and vultures in its way, this aircraft is a solid pick for any pilot
+* The LAAT is the bread and butter of X-Ray. While not being good at one thing in particular it can do the job of multiple aircraft if need be. With the ability to move an entire company of men while also taking out aats and vultures in its way, this aircraft is a solid pick for any pilot.
 
 * The ARC-170 is the middle ground of Fighers and bombers. While featuring no major munitions, carries anti-air and air to ground missiles, while also carrying some of X-rays lighter bombs. Like the laat this aircraft excels at nothing but can do anything required of it. 
 

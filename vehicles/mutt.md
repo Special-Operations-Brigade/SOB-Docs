@@ -1,15 +1,25 @@
 # mti_vehicles_mutt
 ===================
 
+- [mti\_vehicles\_mutt](#mti_vehicles_mutt)
+  - [All configurations](#all-configurations)
+  - [MUTT-I](#mutt-i)
+  - [MUTT-C](#mutt-c)
+  - [MUTT-L](#mutt-l)
+  - [MUTT-M](#mutt-m)
+  - [MUTT-A](#mutt-a)
+  - [MUTT-S](#mutt-s)
+  - [MUTT-R](#mutt-r)
+
 The Multi-Use Tactical Transport ("MUTT") is a new vehicle platform developed and produced by MokTech Industries.
 
 - MUTT-I - Infantry Transport **(Initial Release)**
 - MUTT-C - Cargo Transport **(Initial Release)**
 - MUTT-L - Vehicle/Field Logistics **(Phase 2)**
-- MUTT-M - Medical Transport **(Phase 2)**
+- MUTT-M - Medical Transport **(Phase 3)**
 - MUTT-A - Assault Variant, different armaments **(Phase 3)**
-- MUTT-S - Mobile Shield Configuration **(Phase 3)**
-- MUTT-R - Radar/Sensor/AWACS Configuration **(Phase 3)**
+- MUTT-S - Mobile Shield Configuration **(Phase 4)**
+- MUTT-R - Radar/Sensor/AWACS Configuration **(Phase 4)**
 
 ## All configurations
 
@@ -25,9 +35,11 @@ The Multi-Use Tactical Transport ("MUTT") is a new vehicle platform developed an
 ## MUTT-C
 
 - Cargo sits on cargo bed
-- Incl. ViV loading for BARCs/Stretchers etc?
+- Incl. ViV loading for BARCs/Stretchers etc
 
 ## MUTT-L
+
+A more detailed overview of the MUTT-L features can be found following this link: [mutt-l.md](mutt-l.md).
 
 - Built-in Fortify Preset
 - Can re-arm/-fuel/-pair nearby vehicles

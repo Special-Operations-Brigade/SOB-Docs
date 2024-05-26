@@ -43,6 +43,7 @@ class MTI_PopulateAO_Factions {
 
         Air_List[] = {};  // class-names of air vehicle (in CfgVehicles) to spawn as air patrols
     };
+};
 ```
 
 ### `groupPath[]`
@@ -53,8 +54,8 @@ class MTI_PopulateAO_Factions {
 class CfgGroups {
     class East {
         class OPF_F {
-			class Infantry {
-				class OIA_InfSquad {
+            class Infantry {
+                class OIA_InfSquad {
                     //...
                 };
                 class OIA_InfSquad_Weapons {

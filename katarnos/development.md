@@ -82,6 +82,9 @@ class CfgWeapons {
     class baseVestClass;
     class TAG_yourVestClass: baseVestClass {
         mti_pangolin_hasShield = 1; // adds the Pangolin shield emitters to this vest (values: 0/1)
+        mti_pangolin_shieldStrength = 100; // defines the base strength of the shield (values > 0)
+        mti_pangolin_shieldRegen = 10; // the base regen rate for the shield in strength/second (values > 0)
+        mti_pangolin_regenTimeoutMod = 1; // modifier for the shield timeout after receiving damage before recharging (values >= 1)
     };
 };
 ```

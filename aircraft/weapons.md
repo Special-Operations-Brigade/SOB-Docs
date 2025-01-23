@@ -30,6 +30,7 @@ This documentation is for all custom aircraft weaponry, it will be updated as th
 * R.O.C.K Missiles are extremely precise missiles that require a laser lock to fire. These missiles have no exposive damage so it must be a direct hit on target, but will kill anything hit
 * Stalkers are HARM Missiles are anti-radar missiles. They are meant for anti-air turrets or radar locking vehicles/turrets that are a threat to aircraft. They are meant to auto lock and fire, meaning all you have to do is direct it and let it do the rest. 
 * Hitmen are stealth Air to Ground missiles. With no ability to laser lock they must have an IR lock to be able to head to the intended target. 
+* Scalples are deadly percision missiles. This missiles feature very little splash damage and leave no room for error, however hit your target, and it will guartee destruction.
 
 ### Bombs
 

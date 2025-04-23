@@ -31,6 +31,7 @@ This documentation is for all custom aircraft weaponry, it will be updated as th
 * Stalkers are HARM Missiles are anti-radar missiles. They are meant for anti-air turrets or radar locking vehicles/turrets that are a threat to aircraft. They are meant to auto lock and fire, meaning all you have to do is direct it and let it do the rest. 
 * Hitmen are stealth Air to Ground missiles. With no ability to laser lock they must have an IR lock to be able to head to the intended target. 
 * Scalples are deadly percision missiles. This missiles feature very little splash damage and leave no room for error, however hit your target, and it will guartee destruction.
+* Ball Peen missiles are fast firing air to ground missiles. They have a max range of 1 kilometer but a lock on speed of about a half a second. These are perfect for your speedy aircraft to get in and out of a cass mission without losing speed!
 
 ### Bombs
 

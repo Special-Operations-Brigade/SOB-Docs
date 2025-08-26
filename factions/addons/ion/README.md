@@ -1,0 +1,3 @@
+mti_factions_ion
+===================
+Time for this rewrite of The ION Corporation! ION was always designed to be a shady external company playing both sides of the war, with loyalty to the highest bidder. They were designed to be effectively nerfed by their inability to breath on planets that humanoid species typically can, similar to the Skakoans. This rewrite of ION aims to introduce new warbots to do their bidding, with ION soldiers being effectively 'glass cannons' - Strong, powerful and skilled corporate soldiers, with their biggest weakness being their oxygen packs, causing their immediate death if destroyed. The droids to be included in here will effectively create a new droid faction that isnt completely, giving compatibility with tech abilities and emp weaponry

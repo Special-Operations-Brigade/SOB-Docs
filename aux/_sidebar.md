@@ -1,0 +1,19 @@
+- [Overview](aux/README.md)
+- **addons**
+  - **[backgrounds](aux/addons/backgrounds/README.md)**
+  - **[common](aux/addons/common/README.md)**
+  - **[compat](aux/addons/compat/README.md)**
+    - **[compat_arsenal](aux/addons/compat/arsenal/README.md)**
+    - **[compat_fortify](aux/addons/compat/fortify/README.md)**
+    - **[compat_logistics](aux/addons/compat/logistics/README.md)**
+  - **[equipment](aux/addons/equipment/README.md)**
+    - **[equipment_arc](aux/addons/equipment/arc/README.md)**
+    - **[equipment_commando](aux/addons/equipment/commando/README.md)**
+    - **[equipment_fieldsupport](aux/addons/equipment/fieldsupport/README.md)**
+    - **[equipment_jumptrooper](aux/addons/equipment/jumptrooper/README.md)**
+    - **[equipment_misc](aux/addons/equipment/misc/README.md)**
+    - **[equipment_pilot](aux/addons/equipment/pilot/README.md)**
+    - **[equipment_trooper](aux/addons/equipment/trooper/README.md)**
+  - **[faces](aux/addons/faces/README.md)**
+  - **[main](aux/addons/main/README.md)**
+    - [Functions](aux/addons/main/functions.md)

@@ -10,6 +10,8 @@
   - **[compositions](factions/addons/compositions/README.md)**
   - **[deathwatch](factions/addons/deathwatch/README.md)**
     - [Functions](factions/addons/deathwatch/FUNCTIONS.md)
+  - **[imp](factions/addons/imp/README.md)**
+    - [Functions](factions/addons/imp/FUNCTIONS.md)
   - **[ion](factions/addons/ion/README.md)**
     - [Functions](factions/addons/ion/FUNCTIONS.md)
   - **[main](factions/addons/main/README.md)**

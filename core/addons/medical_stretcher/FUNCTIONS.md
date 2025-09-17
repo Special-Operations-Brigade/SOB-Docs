@@ -213,7 +213,7 @@
 **Arguments:**
 - `_player` - Player
 - `_stretcher` - Stretcher
-- `_type` - Type of move action, one of: CONST_PUSH, CONST_PULL, CONST_ADJUST
+- `_type` - Type of move action, one of: CONST_PUSH (0), CONST_PULL (1), CONST_ADJUST (2)
 
 **Return Value:** None  
 

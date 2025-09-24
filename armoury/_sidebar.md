@@ -90,6 +90,7 @@
     - **[weapons_chaingun](armoury/addons/weapons/chaingun/README.md)**
     - **[weapons_cinnagaran](armoury/addons/weapons/cinnagaran/README.md)**
     - **[weapons_core](armoury/addons/weapons/core/README.md)**
+    - **[weapons_cyclone](armoury/addons/weapons/cyclone/README.md)**
     - **[weapons_dc15a](armoury/addons/weapons/dc15a/README.md)**
     - **[weapons_dc15c](armoury/addons/weapons/dc15c/README.md)**
     - **[weapons_dc15l](armoury/addons/weapons/dc15l/README.md)**

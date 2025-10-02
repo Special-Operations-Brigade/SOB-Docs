@@ -122,7 +122,8 @@
     - `AMMOTYPE_RAIL` = 8
     - `AMMOTYPE_BEANBAG` = 9
     - `AMMOTYPE_DEFIB` = 10
-    - `AMMOTYPE_Droppod` = 11
+    - `AMMOTYPE_DROPPOD` = 11
+    - `AMMOTYPE_FIRE` = 12
 - **Config Type:** `CfgAmmo`
 - **Description:** This enum controls the scripted behaviour of special ammo.
 
@@ -137,4 +138,3 @@
 - **Value:** Number (Bool)
 - **Config Type:** `CfgMagazines`
 - **Description:** Magazines with this property set to 1 will slowly recharge over time using the self-recharging stun/ion magazine framework.
-

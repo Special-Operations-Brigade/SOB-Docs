@@ -19,6 +19,8 @@
   - **[mando](factions/addons/mando/README.md)**
   - **[mercs](factions/addons/mercs/README.md)**
     - [Functions](factions/addons/mercs/FUNCTIONS.md)
+  - **[modules](factions/addons/modules/README.md)**
+    - [Functions](factions/addons/modules/FUNCTIONS.md)
   - **[rebels](factions/addons/rebels/README.md)**
     - [Functions](factions/addons/rebels/FUNCTIONS.md)
   - **[sob](factions/addons/sob/README.md)**

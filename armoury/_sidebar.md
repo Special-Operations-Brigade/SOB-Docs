@@ -83,6 +83,7 @@
     - **[weapons_acpa](armoury/addons/weapons/acpa/README.md)**
     - **[weapons_acpr](armoury/addons/weapons/acpr/README.md)**
     - **[weapons_arkanian](armoury/addons/weapons/arkanian/README.md)**
+    - **[weapons_boltblaster](armoury/addons/weapons/boltblaster/README.md)**
     - **[weapons_bowcaster](armoury/addons/weapons/bowcaster/README.md)**
     - **[weapons_br77](armoury/addons/weapons/br77/README.md)**
     - **[weapons_btx](armoury/addons/weapons/btx/README.md)**
@@ -118,6 +119,7 @@
     - **[weapons_melee](armoury/addons/weapons/melee/README.md)**
     - **[weapons_mpl](armoury/addons/weapons/mpl/README.md)**
     - **[weapons_nt](armoury/addons/weapons/nt/README.md)**
+    - **[weapons_pcb99](armoury/addons/weapons/pcb99/README.md)**
     - **[weapons_plx1](armoury/addons/weapons/plx1/README.md)**
     - **[weapons_rd4](armoury/addons/weapons/rd4/README.md)**
     - **[weapons_rps6](armoury/addons/weapons/rps6/README.md)**

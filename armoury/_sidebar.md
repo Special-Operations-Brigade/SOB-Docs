@@ -112,6 +112,7 @@
     - **[weapons_e403](armoury/addons/weapons/e403/README.md)**
     - **[weapons_ee2](armoury/addons/weapons/ee2/README.md)**
     - **[weapons_epl2](armoury/addons/weapons/epl2/README.md)**
+    - **[weapons_fc36](armoury/addons/weapons/fc36/README.md)**
     - **[weapons_firepuncher](armoury/addons/weapons/firepuncher/README.md)**
     - **[weapons_hh12](armoury/addons/weapons/hh12/README.md)**
     - **[weapons_loadorder](armoury/addons/weapons/loadorder/README.md)**

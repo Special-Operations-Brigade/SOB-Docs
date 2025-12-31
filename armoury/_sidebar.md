@@ -1,6 +1,7 @@
 - [Overview](armoury/README.md)
 - **addons**
   - **[common](armoury/addons/common/README.md)**
+    - [Functions](armoury/addons/common/FUNCTIONS.md)
   - **[drones](armoury/addons/drones/README.md)**
     - **[drones_adbm](armoury/addons/drones/adbm/README.md)**
     - **[drones_autoturret](armoury/addons/drones/autoturret/README.md)**
@@ -115,6 +116,7 @@
     - **[weapons_fc36](armoury/addons/weapons/fc36/README.md)**
     - **[weapons_firepuncher](armoury/addons/weapons/firepuncher/README.md)**
     - **[weapons_hh12](armoury/addons/weapons/hh12/README.md)**
+    - **[weapons_hpb](armoury/addons/weapons/hpb/README.md)**
     - **[weapons_loadorder](armoury/addons/weapons/loadorder/README.md)**
     - **[weapons_ls150](armoury/addons/weapons/ls150/README.md)**
     - **[weapons_melee](armoury/addons/weapons/melee/README.md)**

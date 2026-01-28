@@ -194,32 +194,6 @@ call mti_intercom_fnc_hasIntercom;
 
 **Author:** Mokka 
 
-## fnc_tfar_onSpeakVolumeChanged.inc.sqf
-
-No documentation available.
-
-## tfar_fnc_preparePositionCoordinates
-
-**Description:** Prepares the position coordinates of the passed unit. Based on: https://github.com/michail-nikolaev/task-force-arma-3-radio/blob/master/addons/core/functions/fnc_preparePositionCoordinates.sqf Will be removed once Saborknight's External Intercom PR gets merged.  
-
-**Arguments:**
-- `_unit` - Unit to prepare position coordinates for
-- `_nearPlayer` - Is unit near player?
-- `_unitName` - Name of the unit
-
-**Return Value:** prepared Data  
-
-**Example:**
-```
-
-(begin example)
-[params] call tfar_fnc_preparePositionCoordinates;
-(end)
-
-```
-
-**Author:** NKey, modified by Mokka 
-
 ## TFAR_fnc_vehicleId
 
 **Description:** Returns a string with information about the player vehicle, used at the plugin side. Based on: https://github.com/michail-nikolaev/task-force-arma-3-radio/blob/master/addons/core/functions/fnc_vehicleId.sqf  

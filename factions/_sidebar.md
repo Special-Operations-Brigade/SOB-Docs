@@ -1,25 +1,30 @@
 - [Overview](factions/README.md)
 - **addons**
   - **[cis](factions/addons/cis/README.md)**
-    - [Functions](factions/addons/cis/functions.md)
+    - [Functions](factions/addons/cis/FUNCTIONS.md)
     - **[cis_human](factions/addons/cis/human/README.md)**
   - **[civilian](factions/addons/civilian/README.md)**
-    - [Functions](factions/addons/civilian/functions.md)
+    - [Functions](factions/addons/civilian/FUNCTIONS.md)
   - **[common](factions/addons/common/README.md)**
-    - [Functions](factions/addons/common/functions.md)
+    - [Functions](factions/addons/common/FUNCTIONS.md)
   - **[compositions](factions/addons/compositions/README.md)**
   - **[deathwatch](factions/addons/deathwatch/README.md)**
-    - [Functions](factions/addons/deathwatch/functions.md)
+    - [Functions](factions/addons/deathwatch/FUNCTIONS.md)
+  - **[imp](factions/addons/imp/README.md)**
+    - [Functions](factions/addons/imp/FUNCTIONS.md)
   - **[ion](factions/addons/ion/README.md)**
-    - [Functions](factions/addons/ion/functions.md)
+    - [Functions](factions/addons/ion/FUNCTIONS.md)
   - **[main](factions/addons/main/README.md)**
-    - [Functions](factions/addons/main/functions.md)
+    - [Functions](factions/addons/main/FUNCTIONS.md)
   - **[mando](factions/addons/mando/README.md)**
   - **[mercs](factions/addons/mercs/README.md)**
-    - [Functions](factions/addons/mercs/functions.md)
-  - **[Rebels](factions/addons/Rebels/README.md)**
-    - [Functions](factions/addons/Rebels/functions.md)
+    - [Functions](factions/addons/mercs/FUNCTIONS.md)
+  - **[modules](factions/addons/modules/README.md)**
+    - [Functions](factions/addons/modules/FUNCTIONS.md)
+  - **[rebels](factions/addons/rebels/README.md)**
+    - [Functions](factions/addons/rebels/FUNCTIONS.md)
+  - **[sob](factions/addons/sob/README.md)**
   - **[weapons](factions/addons/weapons/README.md)**
-    - [Functions](factions/addons/weapons/functions.md)
-  - **[zombie](factions/addons/zombie/README.md)**
-    - [Functions](factions/addons/zombie/functions.md)
+    - [Functions](factions/addons/weapons/FUNCTIONS.md)
+  - **[zombies](factions/addons/zombies/README.md)**
+    - [Functions](factions/addons/zombies/FUNCTIONS.md)

@@ -1,18 +1,18 @@
 # Function Reference
 
-## fnc_aiHealerInit.sqf
+## fnc_gui_HMPVehDeploy.sqf
 
 No documentation available.
 
-## fnc_deployTurretAtPosition.sqf
+## fnc_HMPVehDeploy.sqf
 
 No documentation available.
 
-## fnc_turretcarrier.sqf
+## fnc_StructuralReinforcement.sqf
 
 No documentation available.
 
-## fnc_waypointmortar.sqf
+## fnc_VehicleReinforcement.sqf
 
 No documentation available.
 

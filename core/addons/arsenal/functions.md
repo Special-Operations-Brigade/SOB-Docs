@@ -6,7 +6,7 @@
 
 **Arguments:**
 - `_object` - Player to init
-- `_type` - Arsenal Type, any valid class in mti_arsenal_whitelists
+- `_type` - Arsenal Type, any valid class in MTI_Common_ArsenalWhitelists
 
 **Return Value:** None  
 
@@ -14,7 +14,7 @@
 ```
 
 (begin example)
-[this, "Command"] call mti_common_fnc_initArsenal;
+[this, "Haran"] call mti_common_fnc_initPlayer;
 (end)
 
 ```

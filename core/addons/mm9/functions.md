@@ -1,25 +1,5 @@
 # Function Reference
 
-## mti_mm9_fnc_attackProfile_mm9
-
-**Description:** Attack profile for the MM-9.  
-
-**Arguments:**
-- Missile Guidance Arg
-
-**Return Value:** Missile AIM posASL  
-
-**Example:**
-```
-
-(begin example)
-[] call mti_mm9_fnc_attackProfile_mm9;
-(end)
-
-```
-
-**Author:** Mokka 
-
 ## mti_mm9_fnc_findTargetMM9
 
 **Description:** Attempts to find a suitable target for the MM9.  
@@ -120,46 +100,6 @@ Mokka
 
 **Author:** Mokka 
 
-## mti_mm9_fnc_mm9_onFiredNav
-
-**Description:** Sets up variables for the MM-9 missile guidance navigation type.  
-
-**Arguments:**
-- Missile Guidance Arg
-
-**Return Value:** None  
-
-**Example:**
-```
-
-(begin example)
-[...] call mti_mm9_fnc_mm9_onFiredNav;
-(end)
-
-```
-
-**Author:** Mokka 
-
-## mti_mm9_fnc_navigationType_mm9
-
-**Description:** Navigation function for the MM-9.  
-
-**Arguments:**
-- Guidance Arg Array
-
-**Return Value:** Commanded acceleration normal to LOS in world space  
-
-**Example:**
-```
-
-(begin example)
-[] call mti_mm9_fnc_navigationType_mm9;
-(end)
-
-```
-
-**Author:** tcvm, Mokka 
-
 ## mti_mm9_fnc_prepareMM9
 
 **Description:** Prepares the MM9 Rocket System, initiating the targetting sequence and adding action to "Fire".  
@@ -195,46 +135,6 @@ Mokka
 
 (begin example)
 [player] call mti_mm9_fnc_reloadMM9;
-(end)
-
-```
-
-**Author:** Mokka 
-
-## mti_mm9_fnc_seekerType_mm9
-
-**Description:** Seeker Type function for ace_missileguidance for the mm9  
-
-**Arguments:**
-- Guidance Arg Array
-
-**Return Value:** Missile Aim PosASL  
-
-**Example:**
-```
-
-(begin example)
-[...] call mti_mm9_fnc_seekerType_mm9;
-(end)
-
-```
-
-**Author:** Mokka 
-
-## mti_mm9_fnc_unloadMM9
-
-**Description:** Unloads the MM-9 and adds the used reload item back to the unit's inventory.  
-
-**Arguments:**
-- `_unit` - Unit
-
-**Return Value:** None  
-
-**Example:**
-```
-
-(begin example)
-[] call mti_mm9_fnc_unloadMM9;
 (end)
 
 ```

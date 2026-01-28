@@ -253,29 +253,6 @@
 
 **Author:** Mokka 
 
-## mti_explosives_fnc_initCrewBuster
-
-**Description:** Initializes crew buster ammo and sets attached vehicles up for crew destruction upon detonation.  
-
-**Arguments:**
-- `_explosive` - The explosive that was placed down
-- `_dir` - Unused
-- `_pitch` - Unused
-- `_unit` - The unit that placed the explosive
-
-**Return Value:** None  
-
-**Example:**
-```
-
-(begin example)
-[...] call mti_explosives_fnc_initCrewBuster;
-(end)
-
-```
-
-**Author:** Mokka 
-
 ## mti_explosives_fnc_initDP3
 
 **Description:** Initializes the DP-3 and sets attached vehicles up for destruction upon detonation.  

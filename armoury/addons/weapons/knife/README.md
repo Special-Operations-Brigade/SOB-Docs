@@ -1,4 +1,4 @@
-mti_armoury_weapons_cyclone
+mti_armoury_weapons_knife
 ===================
 
 Blank template weapon subaddon.

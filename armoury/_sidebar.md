@@ -1,12 +1,12 @@
 - [Overview](armoury/README.md)
 - **addons**
   - **[common](armoury/addons/common/README.md)**
-    - [Functions](armoury/addons/common/FUNCTIONS.md)
   - **[drones](armoury/addons/drones/README.md)**
     - **[drones_adbm](armoury/addons/drones/adbm/README.md)**
     - **[drones_autoturret](armoury/addons/drones/autoturret/README.md)**
     - **[drones_blasterturret](armoury/addons/drones/blasterturret/README.md)**
     - **[drones_delivery](armoury/addons/drones/delivery/README.md)**
+    - **[drones_loadorder](armoury/addons/drones/loadorder/README.md)**
     - **[drones_mse](armoury/addons/drones/mse/README.md)**
     - **[drones_paap](armoury/addons/drones/paap/README.md)**
     - **[drones_prowler](armoury/addons/drones/prowler/README.md)**
@@ -17,25 +17,28 @@
     - **[equipment_custom](armoury/addons/equipment/custom/README.md)**
     - **[equipment_fieldsupport](armoury/addons/equipment/fieldsupport/README.md)**
     - **[equipment_jumptrooper](armoury/addons/equipment/jumptrooper/README.md)**
+    - **[equipment_loadorder](armoury/addons/equipment/loadorder/README.md)**
     - **[equipment_pilot](armoury/addons/equipment/pilot/README.md)**
     - **[equipment_trooper](armoury/addons/equipment/trooper/README.md)**
   - **[explosives](armoury/addons/explosives/README.md)**
     - **[explosives_aamine](armoury/addons/explosives/aamine/README.md)**
     - **[explosives_compat](armoury/addons/explosives/compat/README.md)**
-    - **[explosives_detpack](armoury/addons/explosives/detpack/README.md)**
     - **[explosives_dp3](armoury/addons/explosives/dp3/README.md)**
     - **[explosives_dp90](armoury/addons/explosives/dp90/README.md)**
     - **[explosives_ec01](armoury/addons/explosives/ec01/README.md)**
     - **[explosives_grenades](armoury/addons/explosives/grenades/README.md)**
+    - **[explosives_loadorder](armoury/addons/explosives/loadorder/README.md)**
     - **[explosives_med](armoury/addons/explosives/med/README.md)**
+  - **[loadorder](armoury/addons/loadorder/README.md)**
   - **[main](armoury/addons/main/README.md)**
-    - [Functions](armoury/addons/main/FUNCTIONS.md)
+    - [Functions](armoury/addons/main/functions.md)
   - **[medical](armoury/addons/medical/README.md)**
   - **[props](armoury/addons/props/README.md)**
     - **[props_banners](armoury/addons/props/banners/README.md)**
     - **[props_console](armoury/addons/props/console/README.md)**
     - **[props_crates](armoury/addons/props/crates/README.md)**
     - **[props_intel](armoury/addons/props/intel/README.md)**
+    - **[props_loadorder](armoury/addons/props/loadorder/README.md)**
     - **[props_locker](armoury/addons/props/locker/README.md)**
     - **[props_logibox](armoury/addons/props/logibox/README.md)**
     - **[props_medical](armoury/addons/props/medical/README.md)**
@@ -43,10 +46,11 @@
     - **[props_munitions](armoury/addons/props/munitions/README.md)**
   - **[statics](armoury/addons/statics/README.md)**
     - **[statics_heavyrepeater](armoury/addons/statics/heavyrepeater/README.md)**
+    - **[statics_loadorder](armoury/addons/statics/loadorder/README.md)**
     - **[statics_mortar](armoury/addons/statics/mortar/README.md)**
     - **[statics_stretcher](armoury/addons/statics/stretcher/README.md)**
   - **[supplies](armoury/addons/supplies/README.md)**
-    - [Functions](armoury/addons/supplies/FUNCTIONS.md)
+    - [Functions](armoury/addons/supplies/functions.md)
   - **[vehicles](armoury/addons/vehicles/README.md)**
     - **[vehicles_arc170](armoury/addons/vehicles/arc170/README.md)**
     - **[vehicles_atap](armoury/addons/vehicles/atap/README.md)**
@@ -61,8 +65,9 @@
     - **[vehicles_laatc](armoury/addons/vehicles/laatc/README.md)**
     - **[vehicles_laati](armoury/addons/vehicles/laati/README.md)**
     - **[vehicles_laatle](armoury/addons/vehicles/laatle/README.md)**
+    - **[vehicles_loadorder](armoury/addons/vehicles/loadorder/README.md)**
     - **[vehicles_mutt](armoury/addons/vehicles/mutt/README.md)**
-      - [Functions](armoury/addons/vehicles/mutt/FUNCTIONS.md)
+      - [Functions](armoury/addons/vehicles/mutt/functions.md)
     - **[vehicles_nuclass](armoury/addons/vehicles/nuclass/README.md)**
     - **[vehicles_px10](armoury/addons/vehicles/px10/README.md)**
     - **[vehicles_rx](armoury/addons/vehicles/rx/README.md)**
@@ -77,7 +82,6 @@
     - **[weapons_acpa](armoury/addons/weapons/acpa/README.md)**
     - **[weapons_acpr](armoury/addons/weapons/acpr/README.md)**
     - **[weapons_arkanian](armoury/addons/weapons/arkanian/README.md)**
-    - **[weapons_boltblaster](armoury/addons/weapons/boltblaster/README.md)**
     - **[weapons_bowcaster](armoury/addons/weapons/bowcaster/README.md)**
     - **[weapons_br77](armoury/addons/weapons/br77/README.md)**
     - **[weapons_btx](armoury/addons/weapons/btx/README.md)**
@@ -85,7 +89,6 @@
     - **[weapons_chaingun](armoury/addons/weapons/chaingun/README.md)**
     - **[weapons_cinnagaran](armoury/addons/weapons/cinnagaran/README.md)**
     - **[weapons_core](armoury/addons/weapons/core/README.md)**
-    - **[weapons_cyclone](armoury/addons/weapons/cyclone/README.md)**
     - **[weapons_dc15a](armoury/addons/weapons/dc15a/README.md)**
     - **[weapons_dc15c](armoury/addons/weapons/dc15c/README.md)**
     - **[weapons_dc15l](armoury/addons/weapons/dc15l/README.md)**
@@ -98,7 +101,7 @@
     - **[weapons_dc17sgf](armoury/addons/weapons/dc17sgf/README.md)**
     - **[weapons_dc19sc](armoury/addons/weapons/dc19sc/README.md)**
     - **[weapons_defib](armoury/addons/weapons/defib/README.md)**
-      - [Functions](armoury/addons/weapons/defib/FUNCTIONS.md)
+      - [Functions](armoury/addons/weapons/defib/functions.md)
     - **[weapons_dlt19](armoury/addons/weapons/dlt19/README.md)**
     - **[weapons_dp23](armoury/addons/weapons/dp23/README.md)**
     - **[weapons_dp24](armoury/addons/weapons/dp24/README.md)**
@@ -106,15 +109,13 @@
     - **[weapons_e403](armoury/addons/weapons/e403/README.md)**
     - **[weapons_ee2](armoury/addons/weapons/ee2/README.md)**
     - **[weapons_epl2](armoury/addons/weapons/epl2/README.md)**
-    - **[weapons_fc36](armoury/addons/weapons/fc36/README.md)**
     - **[weapons_firepuncher](armoury/addons/weapons/firepuncher/README.md)**
     - **[weapons_hh12](armoury/addons/weapons/hh12/README.md)**
-    - **[weapons_hpb](armoury/addons/weapons/hpb/README.md)**
+    - **[weapons_knife](armoury/addons/weapons/knife/README.md)**
+    - **[weapons_loadorder](armoury/addons/weapons/loadorder/README.md)**
     - **[weapons_ls150](armoury/addons/weapons/ls150/README.md)**
-    - **[weapons_melee](armoury/addons/weapons/melee/README.md)**
     - **[weapons_mpl](armoury/addons/weapons/mpl/README.md)**
     - **[weapons_nt](armoury/addons/weapons/nt/README.md)**
-    - **[weapons_pcb99](armoury/addons/weapons/pcb99/README.md)**
     - **[weapons_plx1](armoury/addons/weapons/plx1/README.md)**
     - **[weapons_rd4](armoury/addons/weapons/rd4/README.md)**
     - **[weapons_rps6](armoury/addons/weapons/rps6/README.md)**

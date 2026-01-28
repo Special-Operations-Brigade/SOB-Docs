@@ -16,4 +16,4 @@
     - **[equipment_trooper](aux/addons/equipment/trooper/README.md)**
   - **[faces](aux/addons/faces/README.md)**
   - **[main](aux/addons/main/README.md)**
-    - [Functions](aux/addons/main/FUNCTIONS.md)
+    - [Functions](aux/addons/main/functions.md)

@@ -4,10 +4,6 @@
 
 No documentation available.
 
-## fnc_insurgent.sqf
-
-No documentation available.
-
 ## fnc_ruralciv.sqf
 
 No documentation available.

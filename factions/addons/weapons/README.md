@@ -14,4 +14,3 @@ Weapons_CIS - JLTS
 Weapons_OPTRE - Optre
 Weapons_SFA - Starforge Armoury
 Weapons_WM - Warmantle
-

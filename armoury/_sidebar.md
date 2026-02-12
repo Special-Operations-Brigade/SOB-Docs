@@ -43,6 +43,7 @@
     - **[props_misc](armoury/addons/props/misc/README.md)**
     - **[props_munitions](armoury/addons/props/munitions/README.md)**
   - **[statics](armoury/addons/statics/README.md)**
+    - **[statics_bactatank](armoury/addons/statics/bactatank/README.md)**
     - **[statics_heavyrepeater](armoury/addons/statics/heavyrepeater/README.md)**
     - **[statics_mortar](armoury/addons/statics/mortar/README.md)**
     - **[statics_stretcher](armoury/addons/statics/stretcher/README.md)**
@@ -58,6 +59,7 @@
     - **[vehicles_bug](armoury/addons/vehicles/bug/README.md)**
     - **[vehicles_delta](armoury/addons/vehicles/delta/README.md)**
     - **[vehicles_isp](armoury/addons/vehicles/isp/README.md)**
+    - **[vehicles_itt](armoury/addons/vehicles/itt/README.md)**
     - **[vehicles_jug](armoury/addons/vehicles/jug/README.md)**
     - **[vehicles_laatc](armoury/addons/vehicles/laatc/README.md)**
     - **[vehicles_laati](armoury/addons/vehicles/laati/README.md)**
@@ -81,8 +83,10 @@
     - **[weapons_boltblaster](armoury/addons/weapons/boltblaster/README.md)**
     - **[weapons_bowcaster](armoury/addons/weapons/bowcaster/README.md)**
     - **[weapons_br77](armoury/addons/weapons/br77/README.md)**
+      - [Functions](armoury/addons/weapons/br77/FUNCTIONS.md)
     - **[weapons_btx](armoury/addons/weapons/btx/README.md)**
     - **[weapons_causality](armoury/addons/weapons/causality/README.md)**
+      - [Functions](armoury/addons/weapons/causality/FUNCTIONS.md)
     - **[weapons_chaingun](armoury/addons/weapons/chaingun/README.md)**
     - **[weapons_cinnagaran](armoury/addons/weapons/cinnagaran/README.md)**
     - **[weapons_core](armoury/addons/weapons/core/README.md)**

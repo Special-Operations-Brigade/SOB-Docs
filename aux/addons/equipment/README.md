@@ -85,6 +85,7 @@ sob_equipment
     - [MACRO\_ADD\_TROOPER\_HELMET\_AIRBORNE\_ILLUM(var\_scope,var\_name)](#macro_add_trooper_helmet_airborne_illumvar_scopevar_name)
     - [MACRO\_ADD\_TROOPER\_HELMET\_ENGINEER(var\_scope,var\_name)](#macro_add_trooper_helmet_engineervar_scopevar_name)
     - [MACRO\_ADD\_TROOPER\_HELMET\_ENGINEER\_ILLUM(var\_scope,var\_name)](#macro_add_trooper_helmet_engineer_illumvar_scopevar_name)
+    - [MACRO\_ADD\_TROOPER\_HELMET\_BARC(var\_scope,var\_name)](#macro_add_trooper_helmet_barc_scopevar_name)
     - [MACRO\_ADD\_TROOPER\_VEST\_COMMAND(var\_scope,var\_name)](#macro_add_trooper_vest_commandvar_scopevar_name)
     - [MACRO\_ADD\_TROOPER\_VEST\_COMMAND\_SHIELD(var\_scope,var\_name)](#macro_add_trooper_vest_command_shieldvar_scopevar_name)
     - [MACRO\_ADD\_TROOPER\_VEST\_PLATOON(var\_scope,var\_name)](#macro_add_trooper_vest_platoonvar_scopevar_name)
@@ -731,6 +732,14 @@ The steps below are **optional**, most of this is also handled by workflows or d
     - `var_scope`: Visibility (usually always `2`)
     - `var_name`: Class & Display Name
 - File Path Pattern: `data\helmets\custom\Helmet_Engineer_##var_name##_co.paa`
+
+### MACRO_ADD_TROOPER_HELMET_BARC(var_scope,var_name)
+- Description: Trooper Helmet (BARC)
+- Location: `cfg\helmets.hpp`
+- Arguments:
+    - `var_scope`: Visibility (usually always `2`)
+    - `var_name`: Class & Display Name
+- File Path Pattern: `data\helmets\custom\clone)Helmet_BARC_##var_name##_co.paa`
 
 ### MACRO_ADD_TROOPER_VEST_COMMAND(var_scope,var_name)
 - Description: Trooper Command Vest

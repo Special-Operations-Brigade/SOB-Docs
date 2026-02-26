@@ -638,6 +638,57 @@ No documentation available.
 
 **Author:** Crimzonkat, modified by Mokka 
 
+## mti_weapons_core_fnc_onSlotItemChanged
+
+**Description:** Handles a unit changing weapon attachments.  
+
+**Arguments:**
+- `_unit` - The unit changing attachments <OBJECT>
+- `_item` - Attachment class (unused) <STRING>
+- `_slot` - Slot id (unused) <NUMBER>
+- `_assigned` - Assigned (unused) <BOOL>
+- `_weapon` - Weapon class <STRING>
+
+**Return Value:** None  
+
+**Example:**
+```
+
+(begin example)
+[...] call mti_weapons_core_fnc_onSlotItemChanged;
+(end)
+
+```
+
+**Author:** DartRuffian 
+
+## mti_weapons_core_fnc_onSlotItemChanged
+
+**Description:** Handles a unit changing weapons.  
+
+**Arguments:**
+- `_unit` - The unit changing weapons <OBJECT>
+- `_oldWeapon` - Old weapon (unused) <STRING>
+- `_weapon` - Weapon <STRING>
+- `_oldMode` - Old mode (unused) <NUMBER>
+- `_mode` - Mode (unused) <NUMBER>
+- `_oldMuzzle` - Old muzzle (unused) <NUMBER>
+- `_muzzle` - Muzzle (unused) <NUMBER>
+- `_turretIndex` - Turret index (unused) <STRING>
+
+**Return Value:** None  
+
+**Example:**
+```
+
+(begin example)
+[...] call mti_weapons_core_fnc_onWeaponChanged;
+(end)
+
+```
+
+**Author:** DartRuffian 
+
 ## mti_weapons_core_fnc_shadowVirus_firedEH
 
 **Description:** Handles the release of ShadowVirus particles.  
@@ -752,4 +803,25 @@ _this call mti_weapons_core_fnc_stun_UAEH
 ```
 
 **Author:** Mokka 
+
+## mti_weapons_core_fnc_swapForegrip
+
+**Description:** Swaps the given weapon based on if it has a foregrip or not.  
+
+**Arguments:**
+- `_unit` - The unit changing attachments <OBJECT>
+- `_weapon` - The weapon with(out) a foregrip <WEAPON>
+
+**Return Value:** None  
+
+**Example:**
+```
+
+(begin example)
+[...] call mti_weapons_core_fnc_swapForegrip;
+(end)
+
+```
+
+**Author:** DartRuffian 
 

@@ -4,6 +4,10 @@
 
 No documentation available.
 
+## fnc_deployDrone.sqf
+
+No documentation available.
+
 ## fnc_deployTurretAtPosition.sqf
 
 No documentation available.

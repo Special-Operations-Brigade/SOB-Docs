@@ -61,6 +61,10 @@ No documentation available.
 
 No documentation available.
 
+## fnc_bx_speed_init.sqf
+
+No documentation available.
+
 ## mti_factions_cis_fnc_charge
 
 **Description:** Unit plays an animation and charges at the target  

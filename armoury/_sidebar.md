@@ -16,10 +16,9 @@
     - **[equipment_arc](armoury/addons/equipment/arc/README.md)**
     - **[equipment_commando](armoury/addons/equipment/commando/README.md)**
     - **[equipment_custom](armoury/addons/equipment/custom/README.md)**
-    - **[equipment_fieldsupport](armoury/addons/equipment/fieldsupport/README.md)**
     - **[equipment_jumptrooper](armoury/addons/equipment/jumptrooper/README.md)**
-    - **[equipment_pilot](armoury/addons/equipment/pilot/README.md)**
     - **[equipment_trooper](armoury/addons/equipment/trooper/README.md)**
+    - **[equipment_warden](armoury/addons/equipment/warden/README.md)**
   - **[explosives](armoury/addons/explosives/README.md)**
     - **[explosives_aamine](armoury/addons/explosives/aamine/README.md)**
     - **[explosives_compat](armoury/addons/explosives/compat/README.md)**
@@ -99,6 +98,7 @@
     - **[weapons_dc15sa](armoury/addons/weapons/dc15sa/README.md)**
     - **[weapons_dc15x](armoury/addons/weapons/dc15x/README.md)**
     - **[weapons_dc17m](armoury/addons/weapons/dc17m/README.md)**
+      - [Functions](armoury/addons/weapons/dc17m/FUNCTIONS.md)
     - **[weapons_dc17s](armoury/addons/weapons/dc17s/README.md)**
     - **[weapons_dc17sgf](armoury/addons/weapons/dc17sgf/README.md)**
     - **[weapons_dc19sc](armoury/addons/weapons/dc19sc/README.md)**

@@ -8,6 +8,10 @@ No documentation available.
 
 No documentation available.
 
+## fnc_b2_loadHitHandlers.sqf
+
+No documentation available.
+
 ## fnc_b2_melee.sqf
 
 No documentation available.
@@ -31,6 +35,10 @@ No documentation available.
 ```
 
 **Author:** Ramsey, Dart 
+
+## fnc_bx_loadHitHandlers.sqf
+
+No documentation available.
 
 ## mti_factions_cis_fnc_bx_looting
 
@@ -115,6 +123,10 @@ No documentation available.
 No documentation available.
 
 ## fnc_speakerdroid.sqf
+
+No documentation available.
+
+## fnc_voicelines.sqf
 
 No documentation available.
 

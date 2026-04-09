@@ -9,11 +9,10 @@
   - **[equipment](aux/addons/equipment/README.md)**
     - **[equipment_arc](aux/addons/equipment/arc/README.md)**
     - **[equipment_commando](aux/addons/equipment/commando/README.md)**
-    - **[equipment_fieldsupport](aux/addons/equipment/fieldsupport/README.md)**
     - **[equipment_jumptrooper](aux/addons/equipment/jumptrooper/README.md)**
     - **[equipment_misc](aux/addons/equipment/misc/README.md)**
-    - **[equipment_pilot](aux/addons/equipment/pilot/README.md)**
     - **[equipment_trooper](aux/addons/equipment/trooper/README.md)**
+    - **[equipment_warden](aux/addons/equipment/warden/README.md)**
   - **[faces](aux/addons/faces/README.md)**
   - **[main](aux/addons/main/README.md)**
     - [Functions](aux/addons/main/FUNCTIONS.md)

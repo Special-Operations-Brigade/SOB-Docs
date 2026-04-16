@@ -257,6 +257,12 @@ No documentation available.
 
 No documentation available.
 
+## mti_weapons_core_fnc_decoyGrenade
+
+**Description:** creates hologram of a clone when the holo projector or whatever grenade attached is thrown and impacts  to add this to the grenade GVAR_CORE(weapons_core,ammoType) = 13;        (this is the call for the grenade itself) GVAR_CORE(weapons_core,decoyUnit) = "mti_armoury_equipment_trooper_unit_holo";     (replace the unit path with whatever unit you want to use, otherwise it will default to a soldier)  
+
+**Author:** Wolfen 
+
 ## mti_weapons_core_fnc_droidAttackFlare_FiredEH
 
 **Description:** Handles launching the droid attack flare  
@@ -671,6 +677,12 @@ No documentation available.
 ```
 
 **Author:** Arcanist 
+
+## mti_weapons_core_fnc_smartScope
+
+**Description:** Creates tracking boxes for all infantry or vehicles seen in scope  to add this to the gun/scope depending on if its directly attached or a seperate scope mti_core_hasSmartScope = 1;  
+
+**Author:** Wolfen 
 
 ## mti_weapons_core_fnc_stun
 

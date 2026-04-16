@@ -56,6 +56,12 @@ No documentation available.
 
 No documentation available.
 
+## mti_weapons_core_fnc_initUAVMarkers
+
+**Description:** Creates tracking boxes when you mark down a vehicle and tracks for 3 minutes.  To add this to the drone: put "GVAR_CORE(drones,hasUAVMark) = 1;" in the drone config.   
+
+**Author:** Wolfen
+
 ## mti_mortar_turret_fnc_initVehicle
 
 **Description:** Inits the mortar turret, creates crew, adds disassembly action  

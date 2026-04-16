@@ -1,5 +1,11 @@
 # Function Reference
 
+## mti_equipment_fnc_BackpackDeployment
+
+**Description:** Setup and swapping between different backpack deploy modes   
+
+**Author:** Wolfen 
+
 ## mti_equipment_fnc_canEquipKnife
 
 **Description:** Checks whether given unit can equip a knife.  
@@ -324,6 +330,12 @@ Arcanist
 
 **Author:** Mokka 
 
+## mti_equipment_fnc_PopperDeployment
+
+**Description:** Deploys droid poppers around the player in a 360 degree area  Settings: GVAR_CORE(equipment,hasPopperDeploy) = 1; GVAR_CORE(equipment,popperCharges) = 3; GVAR_CORE(equipment,deployPopper) = 1;   // put this = 1; on the ammo class you want to use  
+
+**Author:** Wolfen
+
 ## mti_equipment_fnc_repairRadio
 
 **Description:** Repairs the unit's fried radios  
@@ -361,6 +373,12 @@ Arcanist
 ```
 
 **Author:** Mokka 
+
+## mti_equipment_fnc_smokeDeployment
+
+**Description:** Deploys a 360-degree smoke screen using the mod's custom impact grenade.  Settings: GVAR_CORE(equipment,hasSmokeDeploy) = 1;      (1 Means they have the ability to use smoke deployment) GVAR_CORE(equipment,smokeCharges) = 1;        (Number of max charges for the backpack) GVAR_CORE(equipment,deploySmoke) = 1;         (add this to the smoke you want to deploy for ammo cfg)  
+
+**Author:** Wolfen 
 
 ## mti_equipment_fnc_toggleKnife
 

@@ -185,3 +185,24 @@
 
 **Author:** Ramsey 
 
+## mti_vehicles_fnc_swapVehicleServer
+
+**Description:** Server-side execution of a vehicle swap. Deletes the old vehicle and creates the replacement, then restores inventory, ACE cargo, and mod variables :D  
+
+**Arguments:**
+- `_vehicle` - The vehicle to delete
+- `_swapTarget` - Classname of the replacement vehicle
+- `_pos` - ATL position of the old vehicle
+- `_dir` - Direction of the old vehicle
+- `_vectorDir` - Vector dir of the old vehicle
+- `_vectorUp` - Vector up of the old vehicle
+- `_velocity` - Velocity of the old vehicle
+- `_inventory` - Cargo inventory array from getVehicleInventory
+- `_aceCargo` - ACE cargo array (ace_cargo_loaded variable)
+- `_deployed` - Deployed variable value (or nil)
+- `_fortifyPresets` - Fortify presets variable value (or nil)
+
+**Return Value:** None  
+
+**Author:** Ramsey 
+

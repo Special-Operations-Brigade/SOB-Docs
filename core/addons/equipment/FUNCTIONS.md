@@ -6,6 +6,12 @@
 
 **Author:** Wolfen 
 
+## mti_equipment_fnc_backpackRTOGlow
+
+**Description:** Applies glowing RVMAT to your LR screen  Settings: so to get this to work, you need screen defined so it knows what to effect, you also need to have an rvmat for the glow specifically once you have both of those in your mod for your backpack you will put the following: GVAR_CORE(rtoGlowBP) = 1;                    			   place this on your backpack config so it knows which to use GVAR_CORE(rtoGlowRVMAT) = QPATHTOEF(path/of/rvmat);      the path to your rvmat whatever that may be  
+
+**Author:** Wolfen
+
 ## mti_equipment_fnc_canEquipKnife
 
 **Description:** Checks whether given unit can equip a knife.  

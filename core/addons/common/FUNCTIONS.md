@@ -12,6 +12,24 @@ No documentation available.
 
 No documentation available.
 
+## mti_common_fnc_allMarkers
+
+**Description:** Returns all valid markers currently on the map.  
+
+**Arguments:**
+- `_selectEditorMarkers` - True to also return editor-placed and scripted markers
+
+**Return Value:** List of all valid markers  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
+
 ## mti_common_fnc_canChangeStance
 
 **Description:** Checks whether player can change stance on given captive. Based on ace_captives_canRemoveHandcuffs  
@@ -127,6 +145,24 @@ No documentation available.
 
 **Author:** Mokka 
 
+## mti_common_fnc_createMarkerPreview
+
+**Description:** Creates a preview of the currently selected saved markers.  
+
+**Arguments:**
+- `_markersData` - The save data to preview markers of
+
+**Return Value:** None  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
+
 ## mti_common_fnc_defaultMarkers
 
 **Description:** Creates default map markers at given position  
@@ -190,6 +226,25 @@ No documentation available.
 ```
 
 **Author:** Mokka 
+
+## mti_common_fnc_findSaveInList
+
+**Description:** Attempts to find a certain save by name and world in the tree of all saves.  
+
+**Arguments:**
+- `_editText` - The name of the save
+- `_worldName` - The world for which to load the saves for
+
+**Return Value:** Selection ID of the save in the tree, -1 if not found  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
 
 ## mti_common_fnc_fuzzyPos
 
@@ -312,6 +367,24 @@ No documentation available.
 
 **Author:** Mokka 
 
+## mti_common_fnc_getMarkerChannel
+
+**Description:** Get the channel of the passed marker.  
+
+**Arguments:**
+- `_marker` - Marker to obtain the channel of
+
+**Return Value:** Channel of the supplied marker  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
+
 ## mti_common_fnc_getMarkerColours
 
 **Description:** Returns all marker colours in pretty format for ZEN dialog.  
@@ -331,6 +404,25 @@ No documentation available.
 ```
 
 **Author:** Mokka 
+
+## mti_common_fnc_getMarkersInArea
+
+**Description:** Return all markers in the supplied area  
+
+**Arguments:**
+- `_area` - The area in which to obtain markers
+- `_selectEditorMarkers` - True to select script-placed and editor markers, too
+
+**Return Value:** List of all markers in given area  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
 
 ## mti_common_fnc_getMarkerTypes
 
@@ -626,6 +718,80 @@ No documentation available.
 
 **Author:** Mokka 
 
+## mti_common_fnc_loadDisplay
+
+**Description:** Load the map icon saving display.  
+
+**Arguments:**
+- None
+
+**Return Value:** None  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
+
+## mti_common_fnc_loadHelp
+
+**Description:** Load the help text on the supplied ctrl  
+
+**Arguments:**
+- `_ctrlHelpText` - The ctrl on which to load the help
+
+**Return Value:** None  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
+
+## mti_common_fnc_loadMarkers
+
+**Description:** Load the markers in the supplied save data  
+
+**Arguments:**
+- `_saveName` - The name of the save to load
+- `_mapName` - The name of the world to load the markers on
+- `_markersData` - The data of the save to load
+
+**Return Value:** None  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
+
+## mti_common_fnc_loadNotification
+
+**Description:** Displays a notification after joining the mission if a save is available for loading.  
+
+**Arguments:**
+- None
+
+**Return Value:** None  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
+
 ## mti_common_fnc_lockDoors
 
 **Description:** Locks all or specific doors in the given building.  
@@ -647,6 +813,30 @@ No documentation available.
 
 **Author:** Mokka 
 
+## fnc_onButtonDelete.sqf
+
+No documentation available.
+
+## fnc_onButtonLoad.sqf
+
+No documentation available.
+
+## fnc_onButtonSave.sqf
+
+No documentation available.
+
+## fnc_onDraw.sqf
+
+No documentation available.
+
+## fnc_onEditNameChanged.sqf
+
+No documentation available.
+
+## fnc_onKeydownMap.sqf
+
+No documentation available.
+
 ## mti_common_fnc_onLoadoutLoad
 
 **Description:** Verifies the given loadout in regards to weight limits.  
@@ -667,6 +857,40 @@ No documentation available.
 ```
 
 **Author:** Mokka 
+
+## fnc_onMouseButtonDownMap.sqf
+
+No documentation available.
+
+## fnc_onMouseButtonUpMap.sqf
+
+No documentation available.
+
+## fnc_onSavesListSelChanged.sqf
+
+No documentation available.
+
+## fnc_onUnload.sqf
+
+No documentation available.
+
+## mti_common_fnc_openDialog
+
+**Description:** Wrapper for the display loading, potentially to filter out who can use the command. Currently just passes the call on.  
+
+**Arguments:**
+- None
+
+**Return Value:** None  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka */  /* private _canOpen = switch (true) do { case (IS_ADMIN): {true}; case (GVAR(setting_canBeOpened) == 2): {true}; case (GVAR(setting_canBeOpened) == 1 && {(missionNamespace getVariable ["CBA_missionTime",0]) < 600}): {true}; default {false}; };  if (!_canOpen) exitWith { playSound "3DEN_notificationWarning"; systemChat "GRAD saveMarkers is currently disabled by the mission. Log in as admin to use."; }; 
 
 ## fnc_parseSide.sqf
 
@@ -697,6 +921,64 @@ No documentation available.
 ## fnc_reinsertNotif.sqf
 
 No documentation available.
+
+## mti_common_fnc_saveMarkers
+
+**Description:** Save the selected markers with the supplied name.  
+
+**Arguments:**
+- `_saveAs` - Name of the save
+- `_worldName` - Name of the current world
+- `_markers` - List of markers to save
+
+**Return Value:** None  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
+
+## mti_common_fnc_setButtonEnabled
+
+**Description:** Enables or disables the supplied button.  
+
+**Arguments:**
+- `_idc` - IDC of the button
+- `_enabled` - True to enable, false to disable
+
+**Return Value:** None  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
+
+## mti_common_fnc_setListSelected
+
+**Description:** Select the element at the supplied selID.  
+
+**Arguments:**
+- `_display` - Display for which to select the list entry
+- `_selID` - ID of the entry to select
+
+**Return Value:** None  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
 
 ## mti_common_fnc_setUnitTrait
 
@@ -762,6 +1044,28 @@ call mti_common_fnc_swapBackpacks;
 
 **Author:** Mokka 
 
+## mti_common_fnc_toggleHelp
+
+**Description:** Toggles the help box in the save/load display  
+
+**Arguments:**
+- None
+
+**Return Value:** None  
+
+**Example:**
+```
+
+Nothing to see here
+
+```
+
+**Author:** Gruppe Adler, modified by Mokka 
+
+## fnc_updateButtonSave.sqf
+
+No documentation available.
+
 ## mti_common_fnc_updateRespawn
 
 **Description:** Updates respawn position  
@@ -781,6 +1085,10 @@ call mti_common_fnc_swapBackpacks;
 ```
 
 **Author:** Mokka 
+
+## fnc_updateSavesList.sqf
+
+No documentation available.
 
 ## mti_common_fnc_useTeleporter
 

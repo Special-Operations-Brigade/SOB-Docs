@@ -10,8 +10,6 @@
   - **[arsenal](core/addons/arsenal/README.md)**
     - [Config Properties](core/addons/arsenal/CONFIG_PROPERTIES.md)
     - [Functions](core/addons/arsenal/FUNCTIONS.md)
-  - **[boc](core/addons/boc/README.md)**
-    - [Functions](core/addons/boc/FUNCTIONS.md)
   - **[catTab_core](core/addons/catTab_core/README.md)**
     - [Config Properties](core/addons/catTab_core/CONFIG_PROPERTIES.md)
     - [Functions](core/addons/catTab_core/FUNCTIONS.md)

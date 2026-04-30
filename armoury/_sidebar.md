@@ -37,7 +37,6 @@
     - **[props_crates](armoury/addons/props/crates/README.md)**
     - **[props_intel](armoury/addons/props/intel/README.md)**
     - **[props_locker](armoury/addons/props/locker/README.md)**
-    - **[props_logibox](armoury/addons/props/logibox/README.md)**
     - **[props_medical](armoury/addons/props/medical/README.md)**
     - **[props_misc](armoury/addons/props/misc/README.md)**
     - **[props_munitions](armoury/addons/props/munitions/README.md)**

@@ -62,6 +62,7 @@
     - **[vehicles_laatc](armoury/addons/vehicles/laatc/README.md)**
     - **[vehicles_laati](armoury/addons/vehicles/laati/README.md)**
     - **[vehicles_laatle](armoury/addons/vehicles/laatle/README.md)**
+    - **[vehicles_las](armoury/addons/vehicles/las/README.md)**
     - **[vehicles_mutt](armoury/addons/vehicles/mutt/README.md)**
       - [Functions](armoury/addons/vehicles/mutt/FUNCTIONS.md)
     - **[vehicles_nuclass](armoury/addons/vehicles/nuclass/README.md)**
@@ -124,6 +125,7 @@
     - **[weapons_rps6](armoury/addons/weapons/rps6/README.md)**
     - **[weapons_rps6hp](armoury/addons/weapons/rps6hp/README.md)**
     - **[weapons_rsfk44](armoury/addons/weapons/rsfk44/README.md)**
+    - **[weapons_s195](armoury/addons/weapons/s195/README.md)**
     - **[weapons_se14r](armoury/addons/weapons/se14r/README.md)**
     - **[weapons_t20](armoury/addons/weapons/t20/README.md)**
     - **[weapons_valken](armoury/addons/weapons/valken/README.md)**

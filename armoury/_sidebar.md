@@ -56,6 +56,7 @@
     - **[vehicles_bltb](armoury/addons/vehicles/bltb/README.md)**
     - **[vehicles_bug](armoury/addons/vehicles/bug/README.md)**
     - **[vehicles_delta](armoury/addons/vehicles/delta/README.md)**
+    - **[vehicles_Gozanti](armoury/addons/vehicles/Gozanti/README.md)**
     - **[vehicles_isp](armoury/addons/vehicles/isp/README.md)**
     - **[vehicles_itt](armoury/addons/vehicles/itt/README.md)**
     - **[vehicles_jug](armoury/addons/vehicles/jug/README.md)**

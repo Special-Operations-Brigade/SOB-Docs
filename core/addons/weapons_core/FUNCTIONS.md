@@ -622,6 +622,10 @@ No documentation available.
 
 **Author:** Mokka 
 
+## fnc_onHit_Thermal.sqf
+
+No documentation available.
+
 ## mti_weapons_core_fnc_onHit_Tracking
 
 **Description:** Handle unit gettting hit by a tracking round. Will place a tracking marker on player's map that updates with target's position occasionally.  

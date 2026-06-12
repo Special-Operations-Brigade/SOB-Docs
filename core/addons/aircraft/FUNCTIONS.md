@@ -272,6 +272,10 @@ No documentation available.
 
 No documentation available.
 
+## fnc_handleBowArrowTrigger.sqf
+
+No documentation available.
+
 ## fnc_handleTrigger.sqf
 
 No documentation available.

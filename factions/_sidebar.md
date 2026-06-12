@@ -22,5 +22,3 @@
   - **[sob](factions/addons/sob/README.md)**
   - **[weapons](factions/addons/weapons/README.md)**
     - [Functions](factions/addons/weapons/FUNCTIONS.md)
-  - **[zombies](factions/addons/zombies/README.md)**
-    - [Functions](factions/addons/zombies/FUNCTIONS.md)

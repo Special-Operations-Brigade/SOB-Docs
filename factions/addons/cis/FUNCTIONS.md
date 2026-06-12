@@ -16,50 +16,17 @@ No documentation available.
 
 No documentation available.
 
-## mti_factions_cis_fnc_bx_disguiseAsBlufor
+## fnc_bx_disguiseAsBlufor.sqf
 
-**Description:** Picks a random BLUFOR player and moves to a position near them. The unit will become passive and mimic the stance of the target and will stop following if the target dies or if the unit dies. The unit will also stop following if the target moves too far away or if the time limit is reached. After 30 seconds, the unit will stop following and will return to its original behaviour. (In this case, the unit will open fire on the target if it is still alive)  
-
-**Arguments:**
-- `_unit` - The unit that will disguise itself as a BLUFOR player
-
-**Return Value:** Nothing  
-
-**Example:**
-```
-
-(begin example)
-[_unit] call mti_factions_cis_fnc_bx_disguiseAsBlufor
-(end)
-
-```
-
-**Author:** Ramsey, Dart 
+No documentation available.
 
 ## fnc_bx_loadHitHandlers.sqf
 
 No documentation available.
 
-## mti_factions_cis_fnc_bx_looting
+## fnc_bx_looting.sqf
 
-**Description:** Loots the body of a unit and gives the items to the unit. Basically forces players to have to chase their gear down if they get downed and get caught by the Mimic  
-
-**Arguments:**
-- `_unit` - The unit that will loot the body
-- `_body` - The body that will be looted
-
-**Return Value:** Nothing  
-
-**Example:**
-```
-
-(begin example)
-[_unit] call mti_factions_cis_fnc_bx_looting
-(end)
-
-```
-
-**Author:** Ramsey 
+No documentation available.
 
 ## fnc_bx_melee.sqf
 
@@ -73,26 +40,9 @@ No documentation available.
 
 No documentation available.
 
-## mti_factions_cis_fnc_charge
+## fnc_charge.sqf
 
-**Description:** Unit plays an animation and charges at the target  
-
-**Arguments:**
-- `_unit` - The unit that will make the noise
-- `_anim` - The animation that will be played
-
-**Return Value:** Nothing  
-
-**Example:**
-```
-
-(begin example)
-[_unit] call mti_factions_cis_fnc_charge
-(end)
-
-```
-
-**Author:** Ramsey, Dart 
+No documentation available.
 
 ## fnc_droidmelee.sqf
 

@@ -315,6 +315,10 @@ _this call mti_weapons_core_fnc_emergencyFlare_FiredEH;
 
 **Author:** Mokka 
 
+## fnc_exploded.sqf
+
+No documentation available.
+
 ## mti_weapons_core_fnc_haad_FiredEH
 
 **Description:** Handles attaching the Health an Ammo Dispenser to the proper Grenade  
@@ -522,10 +526,6 @@ _this call mti_weapons_core_fnc_huntIR_FiredEH;
 **Author:** Crimzonkat, modified by Mokka 
 
 ## fnc_onHit_Beanbag.sqf
-
-No documentation available.
-
-## fnc_onHit_Droppod.sqf
 
 No documentation available.
 

@@ -718,6 +718,26 @@ Nothing to see here
 
 **Author:** Mokka 
 
+## mti_common_fnc_isTech
+
+**Description:** Checks whether given unit is a Tech.  
+
+**Arguments:**
+- `_unit` - Unit to check
+
+**Return Value:** isTech?  
+
+**Example:**
+```
+
+(begin example)
+[player] call mti_common_fnc_isTech;
+(end)
+
+```
+
+**Author:** Mokka 
+
 ## mti_common_fnc_loadDisplay
 
 **Description:** Load the map icon saving display.  

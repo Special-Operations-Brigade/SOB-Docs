@@ -21,27 +21,6 @@
 
 **Author:** Mokka 
 
-## mti_katarnOS_fnc_activateDispenser
-
-**Description:** Activates the backpack-integrated mine dispenser.  
-
-**Arguments:**
-- `_unit` - Unit whose dispenser to activate
-- `_type` - 0 = mines, 1 = caltrops
-
-**Return Value:** None  
-
-**Example:**
-```
-
-(begin example)
-[player] call mti_katarnOS_fnc_activateDispenser;
-(end)
-
-```
-
-**Author:** Mokka 
-
 ## mti_katarnOS_fnc_activateRepulsorBlast
 
 **Description:** Activates the Repulsor Blast  
@@ -62,25 +41,13 @@
 
 **Author:** Chimera 
 
-## mti_katarnOS_fnc_activateSquadShield
+## fnc_activateSquadShield.sqf
 
-**Description:** Handles activation of the squad shield.  
+No documentation available.
 
-**Arguments:**
-- `_unit` - Unit that activated the squad shield
+## fnc_activateStunWave.sqf
 
-**Return Value:** None  
-
-**Example:**
-```
-
-(begin example)
-[player] call mti_katarnOS_fnc_activateSquadShield;
-(end)
-
-```
-
-**Author:** Mokka 
+No documentation available.
 
 ## mti_katarnOS_fnc_activateTaser
 
@@ -145,24 +112,21 @@
 
 ## mti_katarnOS_fnc_canActivateSquadShield
 
-**Description:** Checks if given unit can activate the squad shield of the given target  
+**Description:** Checks if the given unit can deploy the squad shield.  
 
 **Arguments:**
-- `_unit` - Unit attempting to activate squad shield
-- `_target` - Target unit in possession of the squad shield
+- `_unit` - Unit to check
 
-**Return Value:** canActivateSquadShield?  
+**Return Value:** canActivateSquadShield? 
 
-**Example:**
-```
+## mti_katarnOS_fnc_canActivateStunWave
 
-(begin example)
-[ACE_Player,cursorTarget] call mti_katarnOS_fnc_canActivateSquadShield;
-(end)
+**Description:** Checks if the given unit can activate the stun wave.  
 
-```
+**Arguments:**
+- `_unit` - Unit to check
 
-**Author:** Mokka 
+**Return Value:** canActivateStunWave? 
 
 ## mti_katarnOS_fnc_canActivateTaser
 
@@ -224,26 +188,14 @@
 
 **Author:** Mokka 
 
-## mti_katarnOS_fnc_canUseDispenser
+## mti_katarnOS_fnc_canUseVisualMineScan
 
-**Description:** Checks if the given unit can use the integrated mine dispenser.  
+**Description:** Checks if the given unit can activate the visual mine scan.  
 
 **Arguments:**
 - `_unit` - Unit to check
-- `_type` - 0 = mines, 1 = caltrops
 
-**Return Value:** canUseDispenser?  
-
-**Example:**
-```
-
-(begin example)
-[ACE_player, 0] call mti_katarnOS_fnc_canUseDispenser;
-(end)
-
-```
-
-**Author:** Mokka 
+**Return Value:** canUseVisualMineScan? 
 
 ## mti_katarnOS_fnc_getID
 
@@ -406,26 +358,6 @@
 
 **Author:** Mokka 
 
-## mti_katarnOS_fnc_hasSquadShield
-
-**Description:** Returns whether given unit has access to the backpack-deployed squad shields.  
-
-**Arguments:**
-- `_unit` - Unit to check
-
-**Return Value:** hasSquadShield?  
-
-**Example:**
-```
-
-(begin example)
-[player] call mti_katarnOS_fnc_hasSquadShield;
-(end)
-
-```
-
-**Author:** Mokka 
-
 ## mti_katarnOS_fnc_hasSuit
 
 **Description:** Checks if given unit has equipped KatarnOS compatible Suit.  
@@ -486,27 +418,6 @@
 
 **Author:** Mokka 
 
-## mti_katarnOS_fnc_HUD_Status_PFEH
-
-**Description:** Per-frame Handler that takes care of updating the status HUD.  
-
-**Arguments:**
-- `_args` - Passed arguments
-- `_handle` - PFH handle
-
-**Return Value:** None  
-
-**Example:**
-```
-
-(begin example)
-[...] call mti_katarnOS_fnc_HUD_Status_PFEH;
-(end)
-
-```
-
-**Author:** Mokka 
-
 ## mti_katarnOS_fnc_HUD_Team_PFEH
 
 **Description:** Per-frame Handler that takes care of updating the team HUD.  
@@ -527,6 +438,20 @@
 ```
 
 **Author:** Mokka 
+
+## mti_katarnOS_fnc_katarnHUDHandler
+
+**Description:** Live data processor mapping core framework states to the new custom standard HUD layout.
+
+**Author:** Mokka/Wolfen
+
+## fnc_katarnTeamHUD.sqf
+
+No documentation available.
+
+## fnc_katarnUserHUD.sqf
+
+No documentation available.
 
 ## mti_katarnOS_fnc_onVisionModeChanged
 
@@ -650,4 +575,8 @@
 ```
 
 **Author:** Mokka 
+
+## fnc_visualMineScan.sqf
+
+No documentation available.
 

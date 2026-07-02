@@ -458,6 +458,10 @@ No documentation available.
 
 No documentation available.
 
+## fnc_initsatelite.sqf
+
+No documentation available.
+
 ## mti_fortify_fnc_interaction_addCompositionActions
 
 **Description:** Adds composition actions to suitable containers in player's vicinity.  

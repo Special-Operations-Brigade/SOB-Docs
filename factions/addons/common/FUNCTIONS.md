@@ -12,6 +12,10 @@ No documentation available.
 
 No documentation available.
 
+## fnc_eliteinit.sqf
+
+No documentation available.
+
 ## fnc_heavymelee.sqf
 
 No documentation available.
@@ -24,7 +28,15 @@ No documentation available.
 
 No documentation available.
 
+## fnc_loadHitHandlers.sqf
+
+No documentation available.
+
 ## fnc_turretcarrier.sqf
+
+No documentation available.
+
+## fnc_voicelines.sqf
 
 No documentation available.
 

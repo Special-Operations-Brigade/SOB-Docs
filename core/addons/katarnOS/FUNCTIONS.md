@@ -217,27 +217,6 @@ No documentation available.
 
 **Author:** Mokka 
 
-## mti_katarnOS_fnc_handlePanelSwitch
-
-**Description:** Takes care of skipping the custom panels if HUD projector is not equipped.  
-
-**Arguments:**
-- `_isLeft` - is left side? if false, side is right
-- `_isPrev` - is first action a previous one?
-
-**Return Value:** None  
-
-**Example:**
-```
-
-(begin example)
-[true, false] call mti_katarnOS_fnc_handlePanelSwitch;
-(end)
-
-```
-
-**Author:** Mokka 
-
 ## mti_katarnOS_fnc_hasBackpack
 
 **Description:** Checks if given unit has equipped KatarnOS compatible backpack.  
@@ -412,27 +391,6 @@ No documentation available.
 
 (begin example)
 [ACE_player] call mti_katarnOS_fnc_hasTRX;
-(end)
-
-```
-
-**Author:** Mokka 
-
-## mti_katarnOS_fnc_HUD_Team_PFEH
-
-**Description:** Per-frame Handler that takes care of updating the team HUD.  
-
-**Arguments:**
-- `_args` - Passed arguments
-- `_handle` - PFH handle
-
-**Return Value:** None  
-
-**Example:**
-```
-
-(begin example)
-[...] call mti_katarnOS_fnc_HUD_Team_PFEH;
 (end)
 
 ```

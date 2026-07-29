@@ -1064,6 +1064,10 @@ call mti_common_fnc_swapBackpacks;
 
 **Author:** Mokka 
 
+## fnc_tfarRefresh.sqf
+
+No documentation available.
+
 ## mti_common_fnc_toggleHelp
 
 **Description:** Toggles the help box in the save/load display  

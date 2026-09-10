@@ -40,6 +40,8 @@
     - [Config Properties](core/addons/fortify/CONFIG_PROPERTIES.md)
     - [Functions](core/addons/fortify/FUNCTIONS.md)
     - [Dev](core/addons/fortify/dev.md)
+  - **[hud](core/addons/hud/README.md)**
+    - [Functions](core/addons/hud/FUNCTIONS.md)
   - **[hungergames](core/addons/hungergames/README.md)**
     - [Functions](core/addons/hungergames/FUNCTIONS.md)
   - **[intercom](core/addons/intercom/README.md)**

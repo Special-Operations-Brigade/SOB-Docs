@@ -69,6 +69,18 @@ No documentation available.
 
 **Author:** Mokka 
 
+## mti_katarnOS_fnc_applyKatarnLayout
+
+**Description:** Applies scale to the Katarn HUD layout.
+
+**Author:** Wolfen
+
+## mti_katarnOS_fnc_applyKatarnStyle
+
+**Description:** Applies font and color settings to the Katarn HUD.
+
+**Author:** Wolfen
+
 ## mti_katarnOS_fnc_canActivateBeacon
 
 **Description:** Checks if given unit can activate the beacon of the given target  
